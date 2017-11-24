@@ -6,7 +6,7 @@ Saul Zamora
 200835773
 
 ### Descripcion
-Programa en Prolog (SWI-Prolog) que encuentra transforma un grafo cualquiera en un grafo bipartito. Dado que la transformacion produce mas de un resultado, el programa retorna todos los resultados posubles
+Programa en Prolog (SWI-Prolog) que transforma un grafo cualquiera en un grafo bipartito. Dado que la transformacion produce mas de un resultado, el programa retorna todos los resultados posibles.
 
 ### Uso
 
